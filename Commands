@@ -1,0 +1,3 @@
+# Battery Report Generator Command
+Open Terminal Cpy & Past & Enter
+powercfg /batteryreport
